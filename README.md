@@ -12,3 +12,4 @@ dotnet new -l
 dotnet new webapi
 # ejecutar el proyecto
 dotnet run
+# webapidotnet
