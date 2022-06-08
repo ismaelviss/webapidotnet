@@ -10,3 +10,6 @@ dotnet new -l
 dotnet new webapi
 ### ejecutar el proyecto
 dotnet run
+
+## postman project link
+https://www.getpostman.com/collections/54c75457b1695db921d6
